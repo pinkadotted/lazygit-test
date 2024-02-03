@@ -8,4 +8,6 @@ This is to test if normal git works on my machine.
 
 5th and last.
 
-6th, there is more. 
+6th, there is more.
+
+7th.
